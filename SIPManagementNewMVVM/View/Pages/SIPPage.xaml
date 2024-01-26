@@ -1,0 +1,111 @@
+﻿<Page x:Class="SIPManagementNewMVVM.View.Pages.SIPPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SIPManagementNewMVVM.View.Pages"
+      mc:Ignorable="d" 
+      DataContext="{StaticResource SIPPage}"
+      d:DesignHeight="450" d:DesignWidth="850"
+      Title="SIPPage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.1*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Border BorderBrush="White" BorderThickness="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="Register Time" Style="{StaticResource TextBlockStyle}"/>
+                    <TextBox Text="{Binding _RegisterTime,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Foreground="White" FontSize="16" Style="{StaticResource MaterialDesignTextBox}" Grid.Column="1" Height="35" Width="100" />
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="User Agent" Style="{StaticResource TextBlockStyle}"/>
+                    <TextBox Text="{Binding _UserAgent,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" IsEnabled="False" Foreground="White" FontSize="16" Style="{StaticResource MaterialDesignTextBox}" Grid.Column="1" Height="35" Width="100" />
+                </Grid>
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <ComboBox SelectedIndex="1" Text="{Binding _TransportType,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignComboBox}" Width="120" Height="50" FontSize="14" Foreground="White">
+                        <ComboBoxItem>TCP</ComboBoxItem>
+                        <ComboBoxItem>UDP</ComboBoxItem>
+                    </ComboBox>
+                    <CheckBox IsChecked="{Binding _RegisterRequire,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Content="Register Require" Style="{StaticResource MaterialDesignAccentCheckBox}" Grid.Column="1" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Row="3">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="Thread Number" Style="{StaticResource TextBlockStyle}"/>
+                    <TextBox Foreground="White" Text="{Binding _ThreadNumber,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignTextBox}" Grid.Column="1" Height="35" Width="100" />
+                </Grid>
+                <Grid Grid.Row="4" Visibility="Collapsed">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="Error Handler" Style="{StaticResource TextBlockStyle}"/>
+                    <ComboBox Grid.Column="1" Width="120" Height="50" Foreground="White" FontSize="16">
+                        <ComboBoxItem>Continue</ComboBoxItem>
+                        <ComboBoxItem>Stop</ComboBoxItem>
+                        <ComboBoxItem>Stop Without Accounts Errors</ComboBoxItem>
+                    </ComboBox>
+                </Grid>
+                <Button Command="{Binding StartFromZeroBTN}" Grid.Row="4" Content="Start From Zero" Width="150" Style="{StaticResource MaterialDesignFlatButton}" Foreground="White"/>
+                <Grid Grid.Row="5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Command="{Binding StartRegistBTN}" Grid.Column="0" Content="Start" Style="{StaticResource MaterialDesignFlatButton}" Foreground="White" Width="70"/>
+                    <Button Command="{Binding PauseRegistBTN}" Grid.Column="1" Content="Pause" Style="{StaticResource MaterialDesignFlatButton}" Foreground="White" Width="70" />
+                    <Button Command="{Binding InsertTextBTN}" Grid.Column="2" Content="Text" Style="{StaticResource MaterialDesignFlatButton}" Foreground="White" Width="70" />
+                    <Button Command="{Binding UnRegistAllBTN}" Grid.Column="3" Content="UNAll" Style="{StaticResource MaterialDesignFlatButton}" Foreground="White" Width="70" />
+                </Grid>
+            </Grid>
+        </Border>
+        
+        <Grid Grid.Column="1">
+            <DataGrid SelectedItem="{Binding _SelectedAccount,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" CanUserAddRows="False" IsReadOnly="True" AutoGenerateColumns="False" ItemsSource="{Binding _AccountModels,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" SelectionChanged="DataGrid_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding SIPAccount.DisplayName}" Header="Display"/>
+                    <DataGridTextColumn Binding="{Binding SIPAccount.UserName}" Header="Username"/>
+                    <DataGridTextColumn Binding="{Binding SIPAccount.RegisterName}" Header="Register"/>
+                    <DataGridTextColumn Binding="{Binding SIPAccount.RegisterPassword}" Header="Password"/>
+                    <DataGridTextColumn Binding="{Binding SIPAccount.DomainServerHost}" Header="Domain"/>
+                    <DataGridTextColumn Binding="{Binding SIPAccount.OutboundProxy}" Header="Proxy"/>
+                    <DataGridTextColumn Binding="{Binding _reason,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Header="state"/>
+                    <DataGridTemplateColumn>
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="unRegist" DataContext="{StaticResource SIPPage}" Command="{Binding UnRegistOneBTN}" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Page>

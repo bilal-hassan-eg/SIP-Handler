@@ -1,0 +1,12 @@
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Release\SIPManagementNewMVVM.csproj.AssemblyReference.cache
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Release\SIPManagementNewMVVM.csproj.SuggestedBindingRedirects.cache
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Release\View\Windows\MainWindow.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Release\View\Pages\CallNumbersPage.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Release\View\Pages\HomePage.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Release\View\Pages\SIPPage.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Release\View\Pages\TransferCallPage.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Release\View\Pages\userAgentPage.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Release\App.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Release\SIPManagementNewMVVM_MarkupCompile.cache
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Release\SIPManagementNewMVVM_MarkupCompile.lref

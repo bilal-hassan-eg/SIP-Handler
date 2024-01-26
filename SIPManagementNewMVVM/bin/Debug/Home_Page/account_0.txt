@@ -1,0 +1,2 @@
+sip.dylphone.com:5060|100|9167168277|9167168277|50AS4xt1l8OL|sip.dylphone.com|0
+sip.dylphone.com:5060|100|9167168277|9167168277|50AS4xt1l8OL|sip.dylphone.com|0

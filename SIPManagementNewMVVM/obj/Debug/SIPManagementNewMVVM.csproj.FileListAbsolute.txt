@@ -1,0 +1,107 @@
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.AssemblyReference.cache
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.SuggestedBindingRedirects.cache
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM_MarkupCompile.cache
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM_MarkupCompile.lref
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\App.g.cs
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\CallNumbersPage.g.cs
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\HomePage.g.cs
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\SIPPage.g.cs
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\TransferCallPage.g.cs
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\userAgentPage.g.cs
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Windows\MainWindow.g.cs
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.exe.config
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.exe
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.pdb
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignColors.dll
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignColors.pdb
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\App.baml
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Windows\MainWindow.baml
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\CallNumbersPage.baml
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\HomePage.baml
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\SIPPage.baml
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\TransferCallPage.baml
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\userAgentPage.baml
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.g.resources
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.Properties.Resources.resources
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.GenerateResource.cache
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.CoreCompileInputs.cache
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.CopyComplete
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.exe
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.pdb
+G:\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\OzekiSDK.dll
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.AssemblyReference.cache
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.SuggestedBindingRedirects.cache
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Windows\MainWindow.g.cs
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\CallNumbersPage.g.cs
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\HomePage.g.cs
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\SIPPage.g.cs
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\TransferCallPage.g.cs
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\userAgentPage.g.cs
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\App.g.cs
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM_MarkupCompile.cache
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM_MarkupCompile.lref
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.exe.config
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.exe
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.pdb
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignColors.dll
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignColors.pdb
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\App.baml
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Windows\MainWindow.baml
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\CallNumbersPage.baml
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\HomePage.baml
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\SIPPage.baml
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\TransferCallPage.baml
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\userAgentPage.baml
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.g.resources
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.Properties.Resources.resources
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.GenerateResource.cache
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.CoreCompileInputs.cache
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.CopyComplete
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.exe
+G:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.pdb
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.exe.config
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.exe
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.pdb
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignColors.dll
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignColors.pdb
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.AssemblyReference.cache
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.SuggestedBindingRedirects.cache
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Windows\MainWindow.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\CallNumbersPage.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\HomePage.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\SIPPage.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\TransferCallPage.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\userAgentPage.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\App.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM_MarkupCompile.cache
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM_MarkupCompile.lref
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\App.baml
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Windows\MainWindow.baml
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\CallNumbersPage.baml
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\HomePage.baml
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\SIPPage.baml
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\TransferCallPage.baml
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\View\Pages\userAgentPage.baml
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.g.resources
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.Properties.Resources.resources
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.GenerateResource.cache
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.CoreCompileInputs.cache
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.CopyComplete
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.exe
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.pdb
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.exe.manifest
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.application
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.exe.manifest
+D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.application

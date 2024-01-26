@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIPManagementNewMVVM", "SIPManagementNewMVVM\SIPManagementNewMVVM.csproj", "{94E2F77D-B094-4759-9118-C1C84FF677E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94E2F77D-B094-4759-9118-C1C84FF677E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E2F77D-B094-4759-9118-C1C84FF677E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E2F77D-B094-4759-9118-C1C84FF677E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E2F77D-B094-4759-9118-C1C84FF677E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A02E4A8-7AD6-49BA-BDF5-D3C9E370F7CA}
+	EndGlobalSection
+EndGlobal
