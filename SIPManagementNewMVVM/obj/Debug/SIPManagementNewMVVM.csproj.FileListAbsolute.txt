@@ -105,3 +105,41 @@ D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin
 D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.application
 D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.exe.manifest
 D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.application
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.exe.config
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.exe.manifest
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.application
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.exe
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\bin\Debug\SIPManagementNewMVVM.pdb
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\bin\Debug\MaterialDesignColors.dll
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\bin\Debug\MaterialDesignColors.pdb
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.AssemblyReference.cache
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\View\Windows\MainWindow.g.cs
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\View\Pages\CallNumbersPage.g.cs
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\View\Pages\HomePage.g.cs
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\View\Pages\SIPPage.g.cs
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\View\Pages\TransferCallPage.g.cs
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\View\Pages\userAgentPage.g.cs
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\App.g.cs
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM_MarkupCompile.cache
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM_MarkupCompile.lref
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\App.baml
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\View\Windows\MainWindow.baml
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\View\Pages\CallNumbersPage.baml
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\View\Pages\HomePage.baml
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\View\Pages\SIPPage.baml
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\View\Pages\TransferCallPage.baml
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\View\Pages\userAgentPage.baml
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.g.resources
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.Properties.Resources.resources
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.GenerateResource.cache
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.CoreCompileInputs.cache
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.exe.manifest
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.application
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.csproj.CopyComplete
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.exe
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\SIPManagementNewMVVM.pdb

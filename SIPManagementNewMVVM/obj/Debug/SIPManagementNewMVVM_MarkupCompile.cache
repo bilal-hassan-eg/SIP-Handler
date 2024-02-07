@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\obj\Debug\
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\obj\Debug\
 SIPManagementNewMVVM
 none
 false
 DEBUG;TRACE
-D:\How the business should be done\SIPManagementNewMVVM\SIPManagementNewMVVM\App.xaml
+D:\GitHub\SIP-Handler\SIPManagementNewMVVM\App.xaml
 6693212901
 
 57-1794321207
-161535073568
+16-693148058
 View\Windows\MainWindow.xaml;View\Pages\CallNumbersPage.xaml;View\Pages\HomePage.xaml;View\Pages\SIPPage.xaml;View\Pages\TransferCallPage.xaml;View\Pages\userAgentPage.xaml;
 
 False
